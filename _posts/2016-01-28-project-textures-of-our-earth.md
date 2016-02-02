@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Texturas de Nuestra Tierra, es un proyecto de fotografía aérea artística de todo el país de México. 7 años es el tiempo que se ha tomado para realizar esta colección. '
-datePublished: '2016-02-02T17:30:17.173Z'
+datePublished: '2016-02-02T17:30:17.197Z'
 dateModified: '2016-02-02T17:29:51.810Z'
 title: Proyecto Texturas de Nuestra Tierra
 author: []
