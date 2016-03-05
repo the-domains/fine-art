@@ -4,11 +4,18 @@
         <description><![CDATA[Fine Art]]></description>
         <link>https://thegrid.ai/fine-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 17:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 00:28:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fine-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Demo Reel]]></title>
+            <description><![CDATA[<article><h1>Demo Reel</h1><p>Vídeo sobre: Rancho Los Angeles</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a35360f67446cbc03745f5d2644f0df7a7610961.jpg"></article>]]></description>
+            <link>https://vimeo.com/157359338</link>
+            <guid isPermaLink="false">eea24338-8b76-4f86-8422-f809c7d6bc48</guid>
+            <pubDate>Sat, 05 Mar 2016 00:28:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Proyecto Texturas de Nuestra Tierra]]></title>
-            <description><![CDATA[<article><h1>Proyecto Texturas de Nuestra Tierra</h1><p>Texturas de Nuestra Tierra, es un proyecto de fotografía aérea artística de todo el país de México. 7 años es el tiempo que se ha tomado para realizar esta colección. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/745049c1b2330c3160128fa8b0a7e5ff594bb41d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Proyecto Texturas de Nuestra Tierra</h1><p>Texturas de Nuestra Tierra, es un proyecto de fotografía aérea artística de todo el país de México. 7 años es el tiempo que se ha tomado para realizar esta colección. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fff051ed200a5e23d4cb627cadb6f53b890c1ad1.jpg"></article>]]></description>
             <link>https://thegrid.ai/fine-art/project-textures-of-our-earth/index.html</link>
             <guid isPermaLink="false">fe7c62fe-4b25-4b19-9630-d005658a12dc</guid>
             <pubDate>Tue, 02 Feb 2016 17:30:17 GMT</pubDate>
