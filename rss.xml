@@ -4,7 +4,7 @@
         <description><![CDATA[Fine Art]]></description>
         <link>https://thegrid.ai/fine-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 23:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 23:29:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fine-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Caribbean Waters ]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/fine-art/caribbean-waters/index.html</link>
             <guid isPermaLink="false">db091bed-3023-44c5-94f4-2d8f3a0b210f</guid>
             <pubDate>Mon, 25 Apr 2016 23:25:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proyecto Texturas de Nuestra Tierra]]></title>
-            <description><![CDATA[<article><h1>Proyecto Texturas de Nuestra Tierra</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5774e5e3f08ca61a70210b4e7a270ec2e4d07be.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fine-art/project-textures-of-our-earth/index.html</link>
-            <guid isPermaLink="false">fe7c62fe-4b25-4b19-9630-d005658a12dc</guid>
-            <pubDate>Tue, 02 Feb 2016 17:30:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
