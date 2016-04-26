@@ -1,4 +1,4 @@
-layout_spectrum: 1
+name: Fine Art
 opengraph:
   image: null
   type: null
@@ -9,13 +9,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 color:
   saturation: 0.6875
   brandStrength: 0
@@ -27,14 +27,14 @@ color:
     - '#36312e'
     - '#696973'
   lightness: 0.5625
-typography_spectrum: 0.3261649
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+typography_spectrum: 0.3261649
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Fine Art
